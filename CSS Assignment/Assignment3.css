@@ -1,0 +1,18 @@
+.Box1
+{
+    height: 404px;
+    width: 308px;
+    padding: 30px;
+    margin: auto;
+    border-style: double;
+    background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+}
+.Box2
+{
+    height: 400px;
+    width: 300px;
+    background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+    border-style: groove;
+    color: red;
+
+}

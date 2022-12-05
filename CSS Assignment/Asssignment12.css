@@ -1,0 +1,20 @@
+.Box1
+{
+    height: 375px;
+    width: 386px;
+    padding: 30px;
+  margin: auto;
+    background: linear-gradient(to right, #ad5389, #3c1053);
+
+}
+.Box2
+{
+    border-style: dotted;
+ 
+    border-radius: 60px;
+    color: rgb(0, 255, 21);
+    background-image: linear-gradient( 122.3deg,  rgba(111,71,133,1) 14.6%, rgba(232,129,166,1) 29.6%, rgba(237,237,183,1) 42.1%, rgba(244,166,215,1) 56.7%, rgba(154,219,232,1) 68.7%, rgba(238,226,159,1) 84.8% );
+    height: 311px;
+    width: 324px;
+    padding: 30px;
+}

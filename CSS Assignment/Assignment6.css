@@ -1,0 +1,17 @@
+.Box1
+{
+    height: 507px;
+    width: 726px;
+    padding: 30px;
+    background-image: radial-gradient( circle farthest-corner at -4.5% 34.3%, rgba(13,20,174,1) 0%, rgba(243,165,140,1) 90% );
+
+}
+.Box2
+{
+    height: 519px;
+    width: 729px;
+    
+    background-image: linear-gradient( 
+103.3deg
+, rgba(252,225,208,1) 30%, rgba(255,173,214,1) 55.7%, rgba(162,186,245,1) 81.8% );
+}
